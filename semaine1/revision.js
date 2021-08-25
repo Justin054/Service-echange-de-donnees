@@ -1,9 +1,8 @@
 const theName = 'Yannickkkk';
 let age = 33;
-// test
+
 console.log(theName);
 age++;
-age = age - 1;
 console.log(age);
 
 const test = true + 1;
